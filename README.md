@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Dalslycke
+- 👀 I’m interested in Back-end development
+- 🌱 I’m currently learning C++
+- 📫 How to reach me: elliot.dalslycke@gmail.com
